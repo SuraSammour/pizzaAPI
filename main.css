@@ -1,0 +1,28 @@
+.pizzaSection{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.pizza{
+    background-color: rgb(250, 238, 230);
+    width:50%;
+    text-align: center;
+    height:300px;
+}
+.pizza h2{
+    white-space: nowrap;
+    overflow: hidden;
+}
+.pizzaImage{
+    width:50%;
+    height:70%;
+}
+
+h1{
+    background-color: rgb(255, 247, 196);
+    text-align: center;
+}
+.icons{
+    width:30px;
+    height:30px;
+}
